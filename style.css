@@ -1,0 +1,95 @@
+#Header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+    margin-bottom: 1%;
+    padding: 2%;
+}
+
+#topnav {
+    text-align: center;
+    background-color: rgb(35, 41, 110);
+    padding: 1%;
+    
+}
+
+#home {
+    font-family: Arial, Helvetica, sans-serif;
+    color: aqua;
+    padding: 1%;
+    text-decoration: none;
+}
+#about {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1%;
+    color: aqua;
+    text-decoration: none;
+}
+#gallery {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1%;
+    color: aqua;
+    text-decoration: none;
+}
+#contact {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1%;
+    color: aqua;
+    text-decoration: none;
+}
+
+#isihome {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#tentang {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+table {
+    margin-left: auto;
+    text-align: center;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    height:2%;
+    width: 500px;
+
+
+}
+#tabel {
+    padding: 1%;
+    margin: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#poto {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#pidio {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+img.gambar {
+    position: relative;
+
+}
+
+#list1 {
+font-family: Arial, Helvetica, sans-serif;
+font-size: medium;
+font-weight: bold;
+text-align: center;
+
+
+}
+#list {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    
+    }
